@@ -1,9 +1,4 @@
-Here's an **interactive and well-structured README.md** file tailored for your `SimpleBank` Solidity smart contract. You can paste this directly into your GitHub repo's `README.md` file:
-
----
-
-```markdown
-# 🏦 SimpleBank Smart Contract
+ 🏦 SimpleBank Smart Contract
 
 A minimal Ethereum smart contract that implements a simple banking system. Users can deposit, withdraw, transfer funds, and view their balances. The owner has exclusive rights to manage user access and destroy the contract.
 
